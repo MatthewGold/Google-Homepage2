@@ -1,0 +1,1 @@
+This is where I will put everything I learned while making this project
